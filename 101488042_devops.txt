@@ -1,0 +1,2 @@
+COMP3104 — DevOps Course Overview
+This course introduces students to DevOps principles and modern workflows. Topics may include Git/GitHub branching, pull requests, continuous integration, and pipeline automation (e.g. GitHub Actions). Students will also focus on collaboration, team workflows, and building maintainable software pipelines.
