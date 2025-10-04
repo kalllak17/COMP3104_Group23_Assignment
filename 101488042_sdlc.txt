@@ -1,2 +1,7 @@
 DevOps in the Software Development Life Cycle (SDLC)
 DevOps integrates development and operations to make the SDLC faster and more reliable. It enables continuous integration and testing, improves collaboration between teams, and reduces risks by detecting issues early. By automating builds, tests, and deployments, DevOps ensures smoother releases and better product quality.
+Example CI/CD Flow
+1) Developer pushes to a feature branch
+2) CI builds and runs tests automatically
+3) PR requires green checks before merge
+4) Merge to main triggers deploy (or release build)
