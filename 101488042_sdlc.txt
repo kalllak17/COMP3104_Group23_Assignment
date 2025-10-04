@@ -1,0 +1,2 @@
+DevOps in the Software Development Life Cycle (SDLC)
+DevOps integrates development and operations to make the SDLC faster and more reliable. It enables continuous integration and testing, improves collaboration between teams, and reduces risks by detecting issues early. By automating builds, tests, and deployments, DevOps ensures smoother releases and better product quality.
