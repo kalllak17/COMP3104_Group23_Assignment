@@ -1,2 +1,4 @@
 COMP3104 — DevOps Course Overview
 This course introduces students to DevOps principles and modern workflows. Topics may include Git/GitHub branching, pull requests, continuous integration, and pipeline automation (e.g. GitHub Actions). Students will also focus on collaboration, team workflows, and building maintainable software pipelines.
+
+COMP3104 (DevOps) is part of the Computer Programming & Analysis advanced diploma at George Brown College (T177). It is introduced in later terms, after students complete foundational courses such as Linux Essentials and System Development Project. By this point, students have already learned programming, databases, and web development, so DevOps builds on that base by teaching how to integrate development and operations through Git/GitHub workflows, branching strategies, CI/CD pipelines, and automation.
