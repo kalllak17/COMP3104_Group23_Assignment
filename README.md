@@ -17,3 +17,5 @@ Added required text files, CI setup, pull request template and confirmed CI runs
 _Last updated by Arkadii Akopian, 101513972_
 Added required text files and confirmed CI runs successfully on my branch.
 _Last updated by Karina Vetlugina, 101501883_
+Added required text files and verified that the CI workflow runs successfully on my branch.
+_Last updated by Kiana Nezafat, 101488042_
