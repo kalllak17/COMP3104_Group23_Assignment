@@ -1,0 +1,7 @@
+COMP 3104 - DevOps
+
+- Focus: Git/GitHub, branching, CI/CD pipelines
+- Goal: faster, safer delivery through automation
+- Tools: GitHub Actions, PR reviews, YAML workflows
+- Workflow: individual branches, PRs, conflict resolution
+- Practice: frequent commits and clear messages
