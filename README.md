@@ -3,6 +3,7 @@
 ## Group Members
 - **Member:** Arkadii Akopian (101513972) – [GitHub](https://github.com/kalllak17)
 - **Member:** Karina Vetlugina (101501883) – [GitHub](https://github.com/karina-vetlugina)
+- **Member:** Kiana Nezafat Yazdi (101488042) – [GitHub](https://github.com/kyanaai)
 
 ## Project Description
 This repository contains the COMP3104 DevOps group assignment.  
